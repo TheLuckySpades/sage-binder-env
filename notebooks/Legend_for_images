@@ -1,0 +1,14 @@
+Edges:
+Red/Green/Blue for edges correspond to generators
+
+Vertices:
+Red start vertedx is the identity
+Black vetices project voraciously to the identity
+Light blue vertices don't project to the identity
+
+Walls:
+Purple walls are ones not seperated from the identity by any other walls
+Orange walls seperate one of the black vertices from the identity, but are not purple
+
+They are drawn on the back of prints of the tilings taken from the wikipedia page for triangle groups
+The image bleeding through was used to draw in walls as hyperbolic/euclidean lines
